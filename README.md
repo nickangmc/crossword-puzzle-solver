@@ -11,7 +11,7 @@ The aim of this project is to learn to program in the Declarative programming la
 
 For a given **7x7 squares puzzle**:
 
-![puzzle](https://raw.githubusercontent.com/nickangmc/comp30020-proj-2/master/readme-images/puzzle.png)
+![puzzle](https://github.com/nickangmc/crossword-puzzle-solver/blob/master/readme-images/puzzle.png)
 
 - First, we have to input the _puzzle text-file_ into the program, formatted as **row-by-row arrays in a nested array**: with a black-out square represented by a _'#'_; a blank square represented by a _'\_'_ character; and a filled-in square represented by the corresponding _letter character_. E.g. the first row of the puzzle and the rest above can be represented as **[['#','#','\_','\_','\_','#','#'],...]**
 
