@@ -3,7 +3,7 @@ Program written and developed in the language Prolog as the final project for th
 
 ### Goal:
 
-The aim of this project is to learn to program in the Declarative programming language - **Prolog**, as well as its prominent _backtracking_ feature that is in the core of the language Prolog. Without proper backtracking implementation, the program can easily get stuck in a infinite-backtracking loop, causing the puzzle solver to crash and fail as the puzzle size scales up. However, if it's being implemented properly, it can solve a large-scale puzzle faster than most of the algorithms implemented in imperative languages. 
+The aim of this project is to learn to program in the Declarative programming language - **Prolog**, as well as its prominent _backtracking_ feature that is in the core of the language Prolog. Without proper backtracking implementation, the program can easily get stuck in a infinite-backtracking loop, causing the puzzle solver to crash and fail as the puzzle size scales up. However, if it's being implemented properly, it can solve a large-scale puzzle just as fast, if not faster than most of the algorithms implemented in imperative languages. 
 
 ---
 
